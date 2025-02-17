@@ -1,4 +1,2 @@
 # Samsung-rsicv
-- Name - Bhoomika D H
-- Gmail ID - bhoomikadh15@gmail.com
-- College - Atria Institute of technology
+- Video Demonstration Link: https://drive.google.com/file/d/1epLMEg6pMBVfxHqmv9UZq9xA3DRN2xtG/view?usp=sharing
